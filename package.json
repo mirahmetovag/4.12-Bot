@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon src/bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/router": "^2.0.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.0",
+    "grammy": "^1.16.2",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
